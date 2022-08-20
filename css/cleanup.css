@@ -1,1 +1,24 @@
 /* write your override styles here */
+#wall{
+    font: unset;
+    color: aliceblue;
+    position: absolute;
+}
+#tag-2{
+    display: inline;
+    color: none;
+}
+#tag-6{
+    display: block;
+    height: auto;
+    margin: 0%;
+}
+#tag-5{
+    padding: 0px ;
+    color: black;
+}
+#tag-7{
+    padding: auto;
+    color: none;
+    border: 0em;
+}
